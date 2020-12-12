@@ -4,4 +4,4 @@ Quando temos acoes que devem ser executadas após um comportamento, chamamos ess
 A classe então, após efetuar a ação, invoca/ notifica os observadores.
 
 Vantagem de grande desacoplamento. Nota fiscalbuilder agora depende apenas da interface 'AposGerarNota'. 
-Adicionar novos comportamentos é fácil, basta adicionar na lista de ações  
+Adicionar novos comportamentos fica mais fácil, basta adicionar na lista de ações. 
